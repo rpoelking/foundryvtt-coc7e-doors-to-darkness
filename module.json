@@ -14,6 +14,10 @@
       "flags": {}
     }
   ],
+  "url":"https://github.com/rpoelking/foundryvtt-coc7e-doors-to-darkness",
+  "manifest":"https://raw.githubusercontent.com/rpoelking/foundryvtt-coc7e-doors-to-darkness/refs/heads/main/module.json",
+  "download":"https://github.com/rpoelking/foundryvtt-coc7e-doors-to-darkness/archive/refs/tags/published.zip",
+
   "packs": [
     {
       "name": "actors",
